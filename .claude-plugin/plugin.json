@@ -1,0 +1,14 @@
+{
+  "name": "rubber-duck",
+  "description": "A thinking partner for thinking out loud with AI, for anyone, on any topic.",
+  "version": "0.1.0",
+  "author": {
+    "name": "jingyibuilds",
+    "url": "https://github.com/jingyibuilds"
+  },
+  "homepage": "https://github.com/jingyibuilds/rubber-duck",
+  "repository": "https://github.com/jingyibuilds/rubber-duck",
+  "license": "MIT",
+  "keywords": ["thinking", "thinking-partner", "brainstorming", "rubber-duck", "sensemaking", "learning"],
+  "skills": ["./"]
+}

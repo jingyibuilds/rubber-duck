@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "rubber-duck",
+  "owner": {
+    "name": "jingyibuilds",
+    "url": "https://github.com/jingyibuilds"
+  },
+  "description": "Install Rubber Duck as a Claude plugin.",
+  "plugins": [
+    {
+      "name": "rubber-duck",
+      "source": "./",
+      "description": "A thinking partner for thinking out loud with AI, for anyone, on any topic.",
+      "license": "MIT",
+      "keywords": ["thinking", "thinking-partner", "brainstorming", "rubber-duck", "sensemaking", "learning"]
+    }
+  ]
+}

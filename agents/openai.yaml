@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rubber Duck"
+  short_description: "Think out loud and get a clear map back"
+  default_prompt: "Use $rubber-duck. I want to think something through out loud."
